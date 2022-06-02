@@ -3,8 +3,8 @@
 
 void main()
 {
-int a=10;
+int a=10;//local variable
 
-printf("%d\n",a);
+printf("local variable a value is %d\n",a);
 
 }
