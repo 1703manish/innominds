@@ -1,3 +1,4 @@
+/*C program to find LCM and GCD of two numbers (user input)*/
 #include<stdio.h>
 
 int main()
